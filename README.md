@@ -49,7 +49,15 @@ We will use the files in this folder to install osTicket and some of the depende
 <p>
 Install / Enable IIS in Windows WITH CGI
 World Wide Web Services -> Application Development Features -> [X] CGI
-  
+
+```
+Open control panel 
+Under Programs select Uninstall  a program
+After that select Turn Windows features on or off
+In Windows features open Internet Information tools, World Wide Web Services, application Development Features and check CGI
+
+
+```
 ![Screenshot 2024-12-21 193607](https://github.com/user-attachments/assets/32ac4e22-96d3-476c-98c9-0d7e0c9be7c1)
 ![Screenshot 2024-12-21 193623](https://github.com/user-attachments/assets/47afa9e5-c2dc-46ad-a20e-7f6dadcc21d5)
 ![Screenshot 2024-12-21 193720](https://github.com/user-attachments/assets/19c30bdf-ad71-43fa-96d2-ecd116e862cb)
